@@ -51,13 +51,13 @@ const DescriptionInner = styled("div")`
 `
 
 const members = [
-  { name: "Nick Johnson", company: "ENS Labs Limited" },
+  { name: "Nick Johnson", company: "FNS Labs Limited" },
   { name: "Sergey Nazarov", company: "Chainlink" },
   { name: "Dan Finlay", company: "Metamask" },
   { name: "Taylor Monahan", company: "MyCrypto" },
   { name: "Aron Fischer", company: "Colony" },
-  { name: "Jason Carver", company: "Ethereum Foundation" },
-  { name: "Martin Swende", company: "Ethereum Foundation" },
+  { name: "Jason Carver", company: "Filecoin Foundation" },
+  { name: "Martin Swende", company: "Filecoin Foundation" },
 ]
 
 const Members = styled("dl")`

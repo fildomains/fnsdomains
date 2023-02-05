@@ -23,7 +23,7 @@ const links = [
     img: community,
     text: "Join our Discord community",
     cta: "Join Discord",
-    link: "https://chat.ens.domains/",
+    link: "https://discord.com/channels/1013720391522467840/1013720392210317385",
   },
   {
     name: "forums",
@@ -47,14 +47,14 @@ const supportLinks = [
     img: mailingList,
     text: "Email the support team",
     cta: "Email",
-    link: "mailto:support@ens.domains",
+    link: "mailto:amncjf@gmail.com",
   },
   {
     name: "supportDiscord",
     img: community,
     text: "Open a ticket in discord",
     cta: "Join Discord",
-    link: "https://discord.com/channels/742384562646286509/912184614632689734",
+    link: "https://discord.com/channels/1013720391522467840/1013720392210317385",
   },
 ]
 
@@ -136,26 +136,7 @@ export default function GetInvolved(props) {
   const { t } = useTranslation()
   return (
     <>
-      <Container id="get-involved">
-        <AnchorContainer href={"#get-involved"}>
-          <H2>
-            {t("home.getInvolved.title")}
-            <Anchor />
-          </H2>
-        </AnchorContainer>
-        <Links>
-          {links.map(l => (
-            <LinkItem key={l.name}>
-              <img src={l.img} alt={t(l.name)} />
-              <h3>{t(`home.getInvolved.${l.name}.title`)}</h3>
-              <ExternalLink href={l.link}>
-                {t(`home.getInvolved.${l.name}.cta`)}
-              </ExternalLink>
-            </LinkItem>
-          ))}
-        </Links>
-      </Container>
-      <Container id="get-support" style={{ paddingTop: 0 }}>
+      <Container id="get-support">
         <AnchorContainer href={"#get-support"}>
           <H2>
             {t("home.getInvolved.supportTitle")}

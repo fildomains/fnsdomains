@@ -1,7 +1,7 @@
 {
-  "name": "ens.domains-v2",
+  "name": "fnsdomains",
   "private": true,
-  "description": "ENS Domains homepage V2",
+  "description": "FNS Domains homepage V2",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {

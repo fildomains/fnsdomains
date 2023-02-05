@@ -9,9 +9,9 @@ function getTitle(pathname) {
     case "/governance":
       return "Governance"
     case "/about":
-      return "About ENS"
+      return "About FNS"
     default:
-      return "Ethereum Name Service"
+      return "Filecoin Name Service"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "ENS, Ethereum, Ethereum Name Service, .eth domains, blockchain domains",
+              "FNS, Filecoin, Filecoin Name Service, .eth domains, blockchain domains",
           },
           {
             name: "googlebot",
@@ -46,7 +46,7 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "Ethereum Name Service",
+            content: "Filecoin Name Service",
           },
           {
             name: "twitter:site",
@@ -66,7 +66,7 @@ export default function Layout({ children, data, location }) {
           },
           {
             property: "og:image:alt",
-            content: `Ethereum Name Service`,
+            content: `Filecoin Name Service`,
           },
           {
             property: "og:image:width",
@@ -78,11 +78,11 @@ export default function Layout({ children, data, location }) {
           },
           {
             property: "og:site_name",
-            content: `Ethereum Name Service`,
+            content: `Filecoin Name Service`,
           },
           {
             property: "og:title",
-            content: `Ethereum Name Service`,
+            content: `Filecoin Name Service`,
           },
           {
             property: "og:url",
@@ -93,9 +93,7 @@ export default function Layout({ children, data, location }) {
         link={[
           { rel: "shortcut icon", type: "image/x-icon", href: `${favicon}` },
         ]}
-      >
-        <script async="" defer=""  data-domain="ens.domains" src="https://plausible.io/js/script.outbound-links.js"></script>
-      </Helmet>
+      />
       <Global
         styles={css`
           html, body, #___gatsby, #gatsby-focus-wrapper {

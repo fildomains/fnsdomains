@@ -80,7 +80,7 @@ export default function DecentralisedWebsites(props) {
           <motion.img src={blur2} animate={{ opacity: inView ? 1 : 0 }} />
         </ImageTransition>
       </ImageAnimation>
-      <Button href="https://medium.com/the-ethereum-name-service/cloudflare-and-fleek-make-ens-ipfs-site-deployment-as-easy-as-ever-262c990a7514">
+      <Button href="https://fildomains.medium.com">
         {t("c.learnMore")}
       </Button>
     </Container>

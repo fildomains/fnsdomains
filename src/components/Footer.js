@@ -34,17 +34,17 @@ const social = [
   {
     img: twitter,
     text: "Twitter",
-    link: "https://twitter.com/ensdomains",
+    link: "https://twitter.com/fildomains",
   },
   {
     img: medium,
     text: "Medium",
-    link: "https://medium.com/the-ethereum-name-service",
+    link: "https://fildomains.medium.com",
   },
   {
     img: github,
     text: "GitHub",
-    link: "https://github.com/ensdomains",
+    link: "https://github.com/fnsdomains",
   },
 ]
 
@@ -83,6 +83,7 @@ const SocialContainer = styled("div")`
 const MailTo = styled("a")`
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none;
+  visibility: hidden;
 
   &:not(:last-child) {
     margin-bottom: 10px;
@@ -116,7 +117,7 @@ export default function Footer(props) {
         <MailTo href="https://docs.ens.domains/bug-bounty-program">
           Bug Bounty
         </MailTo>
-        <MailTo href="https://raw.githubusercontent.com/ensdomains/media-kit/main/ENS%20Media%20Kit.zip">
+        <MailTo href="https://raw.githubusercontent.com/ensdomains/media-kit/main/FNS%20Media%20Kit.zip">
           Media Kit
         </MailTo>
       </FooterColumn>

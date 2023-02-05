@@ -13,6 +13,7 @@ const Container = styled("div")`
   align-items: center;
   padding: 0 20px;
   padding-top: 120px;
+  padding-bottom: 60px;
 `
 
 const Desc = styled(P)`
@@ -86,7 +87,7 @@ export default function TraditionalDomains(props) {
           ))}
         </Domains>
       </DomainWrapper>
-      <Button href="https://medium.com/the-ethereum-name-service/step-by-step-guide-to-importing-a-dns-domain-name-to-ens-d2d15feb03e8">
+      <Button href="https://fildomains.medium.com">
         {t("c.learnMore")}
       </Button>
     </Container>

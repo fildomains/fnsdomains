@@ -32,9 +32,6 @@ export default function Hero(props) {
   const { t } = useTranslation()
   return (
     <HeroContainer>
-      <MainPageBannerContainer>
-        <DAOBannerContent />
-      </MainPageBannerContainer>
       <Title>{t("home.hero.title")}</Title>
     </HeroContainer>
   )

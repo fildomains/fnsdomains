@@ -223,36 +223,14 @@ export default function Navigation() {
       </div>
 
       <Links menuOpen={menuOpen}>
-        <a href="/governance">Governance</a>
-        <a href="https://chat.ens.domains/">Community</a>
-        <Link to="/about">Team</Link>
-        <Link to="/jobs">Jobs</Link>
-        <a href="https://docs.ens.domains/">Docs</a>
-
-        <Separator />
         <LanguageSwitcher />
-        <Launch href="https://app.ens.domains">{t("nav.launch")}</Launch>
+        <Launch >{t("nav.launch")}</Launch>
       </Links>
 
       <MobileLinks menuOpen={menuOpen}>
         <LanguageSwitcher mobile={true} />
         <li>
-          <a href="/governance">Governance</a>
-        </li>
-        <li>
-          <a href="https://chat.ens.domains/">Community</a>
-        </li>
-        <li>
-          <Link to="/about">Team</Link>
-        </li>
-        <li>
-          <Link to="/jobs">Jobs</Link>
-        </li>
-        <li>
-          <a href="https://docs.ens.domains/">Docs</a>
-        </li>
-        <li>
-          <Launch href="https://app.ens.domains">{t("nav.launch")}</Launch>
+          <Launch >{t("nav.launch")}</Launch>
         </li>
       </MobileLinks>
     </Nav>

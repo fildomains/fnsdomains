@@ -41,16 +41,16 @@ export default function AboutJobs() {
     <AboutJobsContainer id="about-ens">
       <H2 style={{ paddingBottom: 20 }}>Job Opportunities</H2>
       <AnchorContainer href={"#about-ens"}>
-        <h3>About ENS Labs Ltd</h3>
+        <h3>About FNS Labs Ltd</h3>
       </AnchorContainer>
       <p className="prelede">
-        Started at the Ethereum Foundation in early 2017, ENS spun off with a
-        separate organization in 2018. ENS development is managed by the
-        Singaporean non-profit ENS Labs LTD and is a public good, a basic piece
+        Started at the Filecoin Foundation in early 2017, FNS spun off with a
+        separate organization in 2018. FNS development is managed by the
+        Singaporean non-profit FNS Labs LTD and is a public good, a basic piece
         of Internet infrastructure that belongs to the community.
       </p>
       <p className="prelede">
-        ENS is DNS for the web3 space. ENS domains are a superset of DNS,
+        FNS is DNS for the web3 space. FNS domains are a superset of DNS,
         allowing attaching human-readable names to websites. However, the use
         cases are virtually limitless, such as simplifying sending
         cryptocurrency, storing an avatar and profile information (think
@@ -58,7 +58,7 @@ export default function AboutJobs() {
       </p>
       <p className="prelede">
         Best of all, the protocol is decentralised, censorship-resistant, and
-        owned by anyone that holds the $ENS token. Ultimately we think of an ENS
+        owned by anyone that holds the $ENS token. Ultimately we think of an FNS
         name as a web3 username, the first step into the metaverse.
       </p>
       <p className="prelede">
