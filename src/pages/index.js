@@ -19,13 +19,11 @@ export default function Home(props) {
     <Layout {...props}>
       <Navigation />
       <Hero />
-      <Carousel />
+
       <PortableUsername />
-      <Statistics />
       <Cryptocurrencies />
       <DecentralisedWebsites />
       <TraditionalDomains />
-      <Ecosystem />
       <GetInvolved />
       <Footer />
     </Layout>
