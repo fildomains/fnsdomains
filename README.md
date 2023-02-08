@@ -1,4 +1,4 @@
-## FNS Homepage V2
+## FNS Homepage
 
 ### Translations
 
