@@ -23,7 +23,7 @@ const links = [
     img: community,
     text: "Join our Discord community",
     cta: "Join Discord",
-    link: "https://discord.com/channels/1013720391522467840/1013720392210317385",
+    link: "https://discord.gg/ww9pFaJS",
   },
   {
     name: "forums",
@@ -54,7 +54,7 @@ const supportLinks = [
     img: community,
     text: "Open a ticket in discord",
     cta: "Join Discord",
-    link: "https://discord.com/channels/1013720391522467840/1013720392210317385",
+    link: "https://discord.gg/ww9pFaJS",
   },
 ]
 
