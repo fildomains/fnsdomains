@@ -104,7 +104,7 @@ export default function AboutENS(props) {
           Started at the Filecoin Foundation in early 2017, FNS spun off as a
           separate organization in 2018. FNS is managed by the Singaporean
           non-profit FNS Labs LTD and is a{" "}
-          <a href="https://medium.com/the-ethereum-name-service/who-should-own-the-naming-system-of-the-future-ens-as-a-public-good-10e4a0ab71d8">
+          <a href="https://medium.com/the-filecoin-name-service/who-should-own-the-naming-system-of-the-future-ens-as-a-public-good-10e4a0ab71d8">
             public good
           </a>
           , a basic piece of Internet infrastructure that belongs to the

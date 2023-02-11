@@ -37,11 +37,11 @@
     },
     "dns": {
       "title": "従来のドメインを利用",
-      "text1": "ENSのネイティブ名の接尾辞は.ETHで、ブロックチェーンネイティブであるセキュリティ上の利点を完全に備えています。",
+      "text1": "ENSのネイティブ名の接尾辞は.filで、ブロックチェーンネイティブであるセキュリティ上の利点を完全に備えています。",
       "text2": "また、既に所有しているDNS名でもENSを利用することができます。ENSは以下のような多くのDNS名をサポートしています。"
     },
     "ecosystem": {
-      "title": "ENS エコシステム",
+      "title": "FNS エコシステム",
       "wallets": "ウォレット",
       "apps": "アプリ",
       "browsers": "ブラウザ",
@@ -55,7 +55,7 @@
       "subDomains": "プロジェクトのユーザー名としてENSサブドメインを作成できます。",
       "dns": "特定の名前で従来のDNSレコードを保存し、提供します。",
       "tor": "ENSを使用して、Tor.onionの隠れたサービスにもっと簡単にアクセスできます。",
-      "erc721": ".ETH名はERC721準拠のNFTです。"
+      "erc721": ".fil名はERC721準拠のNFTです。"
     },
     "getInvolved": {
       "title": "参加する",
@@ -107,7 +107,7 @@
     "tally": "Vote on Proposals"
   },
   "constitution": {
-    "title": "ENS constitution book now available",
-    "description": "A printed copy of the ENS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
+    "title": "FNS constitution book now available",
+    "description": "A printed copy of the FNS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
   }
 }

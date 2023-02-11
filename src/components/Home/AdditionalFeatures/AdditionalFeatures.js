@@ -19,13 +19,13 @@ const features = [
     name: "recordType",
     img: file,
     link:
-      "https://medium.com/the-ethereum-name-service/new-custom-text-records-means-every-project-can-have-its-own-ens-record-a68022bb8f86",
+      "https://medium.com/the-filecoin-name-service/new-custom-text-records-means-every-project-can-have-its-own-ens-record-a68022bb8f86",
   },
   {
     name: "textRecord",
     img: attach,
     link:
-      "https://medium.com/the-ethereum-name-service/new-text-records-now-available-for-ens-names-in-manager-a0ebb9cda73a",
+      "https://medium.com/the-filecoin-name-service/new-text-records-now-available-for-ens-names-in-manager-a0ebb9cda73a",
   },
   {
     name: "subDomains",
@@ -37,19 +37,19 @@ const features = [
     name: "dns",
     img: dns,
     link:
-      "https://medium.com/the-ethereum-name-service/ens-kred-major-integration-of-dns-and-ens-launches-e7efb4dd872a",
+      "https://medium.com/the-filecoin-name-service/ens-kred-major-integration-of-dns-and-ens-launches-e7efb4dd872a",
   },
   {
     name: "tor",
     img: onion,
     link:
-      "https://medium.com/the-ethereum-name-service/list-of-ens-names-that-resolve-to-tor-onion-websites-99140a4c674f",
+      "https://medium.com/the-filecoin-name-service/list-of-ens-names-that-resolve-to-tor-onion-websites-99140a4c674f",
   },
   {
     name: "erc721",
     img: cards,
     link:
-      "https://medium.com/the-ethereum-name-service/reminder-that-ens-names-are-nfts-what-this-means-for-your-names-b7bcbea8715e",
+      "https://medium.com/the-filecoin-name-service/reminder-that-ens-names-are-nfts-what-this-means-for-your-names-b7bcbea8715e",
   },
 ]
 

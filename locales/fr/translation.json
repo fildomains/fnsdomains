@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "Un Nom Pour Toutes vos Cryptomonnaies",
-      "text": "Plus besoin de copier coller de longues adresses. Utilisez votre nom ENS pour stocker toutes vos adresses et recevoir des paiements dans n'importe quelle cryptomonnaie."
+      "text": "Plus besoin de copier coller de longues adresses. Utilisez votre nom FNS pour stocker toutes vos adresses et recevoir des paiements dans n'importe quelle cryptomonnaie."
     },
     "statistics": {
-      "title": "ENS est le système de nommage sur Blockchain le plus utilisé dans le monde.",
+      "title": "FNS est le système de nommage sur Blockchain le plus utilisé dans le monde.",
       "names": "Noms",
       "services": "Intégrations",
       "owners": "Propriétaires"
     },
     "decentralisedWebsites": {
       "title": "Site Web décentralisés",
-      "text": "Lancez des sites Web décentralisés résistants à la censure avec ENS. Déployez votre site web sur IPFS dans notre gestionnaire et accédez-y avec votre nom ENS."
+      "text": "Lancez des sites Web décentralisés résistants à la censure avec FNS. Déployez votre site web sur IPFS dans notre gestionnaire et accédez-y avec votre nom FNS."
     },
     "dns": {
       "title": "Utilisez des noms de domaine traditionnels",
-      "text1": "Le suffixe de nom natif pour ENS est .ETH, qui présente tous les avantages de sécurité d'être natif à la blockchain Ethereum.",
-      "text2": "Vous pouvez également utiliser ENS avec des noms DNS que vous possédez déjà. ENS prend en charge de nombreux noms DNS, notamment:"
+      "text1": "Le suffixe de nom natif pour FNS est .fil, qui présente tous les avantages de sécurité d'être natif à la blockchain Filecoin.",
+      "text2": "Vous pouvez également utiliser FNS avec des noms DNS que vous possédez déjà. FNS prend en charge de nombreux noms DNS, notamment:"
     },
     "ecosystem": {
-      "title": "Ecosystème ENS",
+      "title": "Ecosystème FNS",
       "wallets": "Portefeuilles numériques",
       "apps": "Applications",
       "browsers": "Navigateurs",
@@ -51,11 +51,11 @@
     "additionalFeatures": {
       "title": "Fonctionnalités supplémentaires",
       "recordType": "Créez votre propre type d'enregistrement pour votre projet.",
-      "textRecord": "Associez les informations de votre profil à votre nom ENS avec un enregistrement Texte (TXT).",
-      "subDomains": "Créez vos sous-domaines ENS pour vos projets.",
+      "textRecord": "Associez les informations de votre profil à votre nom FNS avec un enregistrement Texte (TXT).",
+      "subDomains": "Créez vos sous-domaines FNS pour vos projets.",
       "dns": "Stockez et associez des enregistrements DNS traditionnels avec certains noms.",
-      "tor": "Utilisez ENS pour accéder plus facilement aux services cachés de Tor (.onion).",
-      "erc721": "Les noms .ETH sont des tokens NFT compatibles ERC721."
+      "tor": "Utilisez FNS pour accéder plus facilement aux services cachés de Tor (.onion).",
+      "erc721": "Les noms .fil sont des tokens NFT compatibles ERC721."
     },
     "getInvolved": {
       "title": "Participer",
@@ -78,23 +78,23 @@
     }
   },
   "about": {
-    "hero": "Le service de noms Ethereum (ENS) est un protocole de nommage basé sur la blockchain open source Ethereum.",
+    "hero": "Le service de noms Filecoin (FNS) est un protocole de nommage basé sur la blockchain open source Filecoin.",
     "aboutENS": {
       "title": "À propos",
-      "text": "Fondée à la Fondation Ethereum au début de 2017, ENS est devenu une organisation distincte en 2018. ENS est gérée par l'organisation à but non lucratif singapourienne ENS Labs LTD et est un bien public, une infrastructure Internet de base appartenant à la communauté. Nous apprécions tous les commentaires et contributions!",
+      "text": "Fondée à la Fondation Filecoin au début de 2017, FNS est devenu une organisation distincte en 2018. FNS est gérée par l'organisation à but non lucratif singapourienne FNS Labs LTD et est un bien public, une infrastructure Internet de base appartenant à la communauté. Nous apprécions tous les commentaires et contributions!",
       "support": "Nous avons reçu le soutien de :",
-      "support2": "Les représentants d'ENS participent à la grande communauté Internet :"
+      "support2": "Les représentants d'FNS participent à la grande communauté Internet :"
     },
     "team": {
       "title": "Rencontrer l'équipe"
     },
     "benefits": {
-      "title": "Les avantages d'Ethereum",
-      "text": "Bien qu'il prenne en charge un large éventail d'actifs non-Ethereum, ENS fonctionne sur la blockchain Ethereum. Cela apporte les avantages de la décentralisation, de la sécurité, de la résistance à la censure et de la programmabilité de la blockchain Ethereum au nommage sur Internet, permettant de nouvelles fonctionnalités telles que l'auto-gestion, l'utilisation dans le grand écosystème des contrats intelligents Ethereum, et plus encore."
+      "title": "Les avantages d'Filecoin",
+      "text": "Bien qu'il prenne en charge un large éventail d'actifs non-Filecoin, FNS fonctionne sur la blockchain Filecoin. Cela apporte les avantages de la décentralisation, de la sécurité, de la résistance à la censure et de la programmabilité de la blockchain Filecoin au nommage sur Internet, permettant de nouvelles fonctionnalités telles que l'auto-gestion, l'utilisation dans le grand écosystème des contrats intelligents Filecoin, et plus encore."
     },
     "root": {
-      "title": "Gérer la racine ENS",
-      "text": "Pour faciliter les mises à jour et maintenances, et dans des circonstances exceptionnelles pour gérer les problèmes avec ENS, la racine ENS est initialement détenue par quatre des sept multisig, avec des membres de projets connexes en tant que détenteurs de clés. À long terme, nous aimerions que le multisig racine soit remplacé par une forme de processus de prise de décision distribué, à mesure que de tels systèmes deviennent disponibles."
+      "title": "Gérer la racine FNS",
+      "text": "Pour faciliter les mises à jour et maintenances, et dans des circonstances exceptionnelles pour gérer les problèmes avec FNS, la racine FNS est initialement détenue par quatre des sept multisig, avec des membres de projets connexes en tant que détenteurs de clés. À long terme, nous aimerions que le multisig racine soit remplacé par une forme de processus de prise de décision distribué, à mesure que de tels systèmes deviennent disponibles."
     }
   },
   "governance": {
@@ -107,7 +107,7 @@
     "tally": "Vote on Proposals"
   },
   "constitution": {
-    "title": "ENS constitution book now available",
-    "description": "A printed copy of the ENS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
+    "title": "FNS constitution book now available",
+    "description": "A printed copy of the FNS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
   }
 }

@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "Jeden Adres Dla Wszystkich Twoich Kryptowalut",
-      "text": "Koniec z kopiowaniem i wklejaniem długich adresów. Użyj swojej nazwy ENS, aby przechowywać wszystkie swoje adresy i otrzymywać płatności w dowolnej kryptowalucie."
+      "text": "Koniec z kopiowaniem i wklejaniem długich adresów. Użyj swojej nazwy FNS, aby przechowywać wszystkie swoje adresy i otrzymywać płatności w dowolnej kryptowalucie."
     },
     "statistics": {
-      "title": "ENS to najpowszechniej zintegrowany standard nazewnictwa blockchain.",
+      "title": "FNS to najpowszechniej zintegrowany standard nazewnictwa blockchain.",
       "names": "Nazwy",
       "services": "Integracje",
       "owners": "Właściciele"
     },
     "decentralisedWebsites": {
       "title": "Zdecentralizowane Strony Internetowe",
-      "text": "Uruchom odporne na cenzurę zdecentralizowane strony internetowe z ENS. Prześlij swoją witrynę do IPFS w naszym menedżerze i uzyskaj do niej dostęp za pomocą nazwy ENS."
+      "text": "Uruchom odporne na cenzurę zdecentralizowane strony internetowe z FNS. Prześlij swoją witrynę do IPFS w naszym menedżerze i uzyskaj do niej dostęp za pomocą nazwy FNS."
     },
     "dns": {
       "title": "Użyj Tradycyjnych Domen",
-      "text1": "Natywnym przyrostkiem nazwy dla ENS jest .ETH, który ma pełne zalety bezpieczeństwa wynikające z bycia natywnym dla blockchain.",
-      "text2": "Możesz także używać ENS z nazwami DNS, które już posiadasz. ENS obsługuje wiele nazw DNS, w tym:"
+      "text1": "Natywnym przyrostkiem nazwy dla FNS jest .fil, który ma pełne zalety bezpieczeństwa wynikające z bycia natywnym dla blockchain.",
+      "text2": "Możesz także używać FNS z nazwami DNS, które już posiadasz. FNS obsługuje wiele nazw DNS, w tym:"
     },
     "ecosystem": {
-      "title": "Ekosystem ENS",
+      "title": "Ekosystem FNS",
       "wallets": "Portfele",
       "apps": "Aplikacje",
       "browsers": "Wyszukiwarki",
@@ -51,11 +51,11 @@
     "additionalFeatures": {
       "title": "Dodatkowe Funkcje",
       "recordType": "Utwórz własny typ rekordu projektu.",
-      "textRecord": "Dołącz informacje profilowe do swojego adresu ENS z rekordami tekstowymi.",
-      "subDomains": "Utwórz subdomeny ENS jako nazwy użytkowników dla swojego projektu.",
+      "textRecord": "Dołącz informacje profilowe do swojego adresu FNS z rekordami tekstowymi.",
+      "subDomains": "Utwórz subdomeny FNS jako nazwy użytkowników dla swojego projektu.",
       "dns": "Przechowuj i udostępniaj tradycyjne rekordy DNS z określonymi nazwami.",
-      "tor": "Użyj ENS, aby szybciej uzyskać dostęp do ukrytych usług Tor .onion.",
-      "erc721": "Nazwy .ETH to NFT zgodne ze standardem ERC721."
+      "tor": "Użyj FNS, aby szybciej uzyskać dostęp do ukrytych usług Tor .onion.",
+      "erc721": "Nazwy .fil to NFT zgodne ze standardem ERC721."
     },
     "getInvolved": {
       "title": "Zaangażuj się",
@@ -78,23 +78,23 @@
     }
   },
   "about": {
-    "hero": "Usługa nazw Ethereum jest protokołem nazewnictwa opartym na blockchainie typu open source.",
+    "hero": "Usługa nazw Filecoin jest protokołem nazewnictwa opartym na blockchainie typu open source.",
     "aboutENS": {
-      "title": "Informacje o ENS",
-      "text": "Założona w Ethereum Foundation na początku 2017 r., ENS wyodrębniła się jako niezależna organizacja w 2018 r. ENS jest zarządzana przez singapurską organizację non-profit ENS Labs LTD i jest dobrem publicznym, podstawowym elementem infrastruktury internetowej należącej do społeczności. Czekamy na wszystkie opinie i wkład!",
+      "title": "Informacje o FNS",
+      "text": "Założona w Filecoin Foundation na początku 2017 r., FNS wyodrębniła się jako niezależna organizacja w 2018 r. FNS jest zarządzana przez singapurską organizację non-profit FNS Labs LTD i jest dobrem publicznym, podstawowym elementem infrastruktury internetowej należącej do społeczności. Czekamy na wszystkie opinie i wkład!",
       "support": "Otrzymaliśmy hojne wsparcie od:",
-      "support2": "Przedstawiciele ENS uczestniczą w większej społeczności internetowej:"
+      "support2": "Przedstawiciele FNS uczestniczą w większej społeczności internetowej:"
     },
     "team": {
       "title": "Poznaj drużynę"
     },
     "benefits": {
-      "title": "Korzyści z Ethereum",
-      "text": "Chociaż obsługuje szeroką gamę aktywów innych niż Ethereum, ENS działa na blockchainie Ethereum. Daje to korzyści płynące z decentralizacji, bezpieczeństwa, odporności na cenzurę i programowalności łańcucha bloków Ethereum do nazewnictwa internetowego, umożliwiając nowe rozwiązania, takie jak samodzielna opieka nad aktywami, możliwość komponowania w większym ekosystemie smart kontraktów Ethereum i nie tylko."
+      "title": "Korzyści z Filecoin",
+      "text": "Chociaż obsługuje szeroką gamę aktywów innych niż Filecoin, FNS działa na blockchainie Filecoin. Daje to korzyści płynące z decentralizacji, bezpieczeństwa, odporności na cenzurę i programowalności łańcucha bloków Filecoin do nazewnictwa internetowego, umożliwiając nowe rozwiązania, takie jak samodzielna opieka nad aktywami, możliwość komponowania w większym ekosystemie smart kontraktów Filecoin i nie tylko."
     },
     "root": {
-      "title": "Zarządzanie root'em ENS",
-      "text": "Aby ułatwić możliwość aktualizacji i konserwacji, a także w wyjątkowych okolicznościach rozwiązanie problemów z ENS, katalog główny ENS jest początkowo własnością czwórki z siedmiu multisigów, z członkami powiązanych projektów jako kluczowymi osobami. W dłuższej perspektywie chcielibyśmy, aby główny multisig został zastąpiony formą rozproszonego procesu decyzyjnego, gdy takie systemy staną się rzeczywistością."
+      "title": "Zarządzanie root'em FNS",
+      "text": "Aby ułatwić możliwość aktualizacji i konserwacji, a także w wyjątkowych okolicznościach rozwiązanie problemów z FNS, katalog główny FNS jest początkowo własnością czwórki z siedmiu multisigów, z członkami powiązanych projektów jako kluczowymi osobami. W dłuższej perspektywie chcielibyśmy, aby główny multisig został zastąpiony formą rozproszonego procesu decyzyjnego, gdy takie systemy staną się rzeczywistością."
     }
   },
   "governance": {
@@ -107,7 +107,7 @@
     "tally": "Vote on Proposals"
   },
   "constitution": {
-    "title": "ENS constitution book now available",
-    "description": "A printed copy of the ENS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
+    "title": "FNS constitution book now available",
+    "description": "A printed copy of the FNS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
   }
 }

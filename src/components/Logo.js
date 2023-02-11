@@ -12,8 +12,8 @@ const LogoContainer = styled("div")`
   }
 
   .ens-logo {
-    width: 35px;
-    margin-right: 10px;
+    width: 60px;
+    margin-right: 0px;
   }
 
   .ens-logo-text {

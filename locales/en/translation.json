@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "One Name For All of Your Addresses",
-      "text": "No more copying and pasting long addresses. Use your ENS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
+      "text": "No more copying and pasting long addresses. Use your FNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
     },
     "statistics": {
-      "title": "ENS is the most widely integrated blockchain naming standard.",
+      "title": "FNS is the most widely integrated blockchain naming standard.",
       "names": "Names",
       "services": "Integrations",
       "owners": "Owners"
     },
     "decentralisedWebsites": {
       "title": "Decentralised Websites",
-      "text": "Launch censorship-resistant decentralised websites with ENS. Upload your website to IPFS and access it with your ENS name."
+      "text": "Launch censorship-resistant decentralised websites with FNS. Upload your website to IPFS and access it with your FNS name."
     },
     "dns": {
       "title": "Use Traditional Domains",
-      "text1": "The native name suffix for ENS is .ETH, which has the full security benefits of being blockchain-native.",
-      "text2": "You can also use ENS with DNS names you already own. ENS supports most DNS names, including:"
+      "text1": "The native name suffix for FNS is .fil, which has the full security benefits of being blockchain-native.",
+      "text2": "You can also use FNS with DNS names you already own. FNS supports most DNS names, including:"
     },
     "ecosystem": {
-      "title": "ENS Ecosystem",
+      "title": "FNS Ecosystem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -51,11 +51,11 @@
     "additionalFeatures": {
       "title": "Additional Features",
       "recordType": "Create your project’s own record type.",
-      "textRecord": "Attach profile information to your ENS name with text records.",
-      "subDomains": "Create ENS subdomains as usernames for your project.",
+      "textRecord": "Attach profile information to your FNS name with text records.",
+      "subDomains": "Create FNS subdomains as usernames for your project.",
       "dns": "Store and serve traditional DNS records with certain names.",
-      "tor": "Use ENS to more easily access Tor .onion hidden services.",
-      "erc721": ".ETH names are ERC721-compliant NFTs."
+      "tor": "Use FNS to more easily access Tor .onion hidden services.",
+      "erc721": ".fil names are ERC721-compliant NFTs."
     },
     "getInvolved": {
       "title": "Get Involved",
@@ -87,27 +87,27 @@
     }
   },
   "about": {
-    "hero": "ENS is an open source blockchain-based naming protocol",
+    "hero": "FNS is an open source blockchain-based naming protocol",
     "aboutENS": {
-      "title": "About ENS",
-      "text": "Started at the Ethereum Foundation in early 2017, ENS is a public good, a basic piece of Internet infrastructure that belongs to the community. Anyone and everyone is free to interact with the protocol as they are permissionless contracts on the Ethereum blockchain.",
+      "title": "About FNS",
+      "text": "Started at the Filecoin Foundation in early 2017, FNS is a public good, a basic piece of Internet infrastructure that belongs to the community. Anyone and everyone is free to interact with the protocol as they are permissionless contracts on the Filecoin blockchain.",
       "support": "We have received generous financial support from:",
-      "support2": "Representatives of ENS participate in the greater Internet community:"
+      "support2": "Representatives of FNS participate in the greater Internet community:"
     },
     "aboutENSLabs": {
-      "title": "About ENS Labs Limited",
-      "text": "Founded in 2018, ENS Labs Limited is a Singapore-based non-profit organisation and is responsible for the core software development of ENS. This includes the ENS app, open source libraries and core smart contracts"
+      "title": "About FNS Labs Limited",
+      "text": "Founded in 2018, FNS Labs Limited is a Singapore-based non-profit organisation and is responsible for the core software development of FNS. This includes the FNS app, open source libraries and core smart contracts"
     },
     "team": {
-      "title": "Meet the ENS Labs team"
+      "title": "Meet the FNS Labs team"
     },
     "benefits": {
-      "title": "Benefits of Ethereum",
-      "text": "Though it supports a wide range of non-Ethereum assets, ENS runs on the Ethereum blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the Ethereum blockchain to Internet naming, enabling new features like self-custody, composability in the greater Ethereum smart-contract ecosystem, and more."
+      "title": "Benefits of Filecoin",
+      "text": "Though it supports a wide range of non-Filecoin assets, FNS runs on the Filecoin blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the Filecoin blockchain to Internet naming, enabling new features like self-custody, composability in the greater Filecoin smart-contract ecosystem, and more."
     },
     "root": {
-      "title": "Managing the ENS root",
-      "text": "To facilitate the possibility of upgrades and maintenance, the ENS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
+      "title": "Managing the FNS root",
+      "text": "To facilitate the possibility of upgrades and maintenance, the FNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
     }
   },
   "governance": {
@@ -120,7 +120,7 @@
     "tally": "Vote on Proposals"
   },
   "constitution": {
-    "title": "ENS constitution book now available",
-    "description": "A printed copy of the ENS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
+    "title": "FNS constitution book now available",
+    "description": "A printed copy of the FNS constitution and its signers is now available in hardcover and ultra-limited edition of 50"
   }
 }
