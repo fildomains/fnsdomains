@@ -44,7 +44,7 @@ const social = [
   {
     img: github,
     text: "GitHub",
-    link: "https://github.com/fnsdomains",
+    link: "https://github.com/fildomains",
   },
 ]
 
